@@ -1,0 +1,21 @@
+[submodule "onecar"]
+	path = onecar
+	url = https://github.com/oxunPy/onecar.git
+[submodule "ABCSecurityAgencyTestQuestion"]
+	path = ABCSecurityAgencyTestQuestion
+	url = https://github.com/oxunPy/ABCSecurityAgencyTestQuestion.git
+[submodule "BigDataTestQuestion"]
+	path = BigDataTestQuestion
+	url = https://github.com/oxunPy/BigDataTestQuestion.git
+[submodule "OscilloscopeVisualizer"]
+	path = OscilloscopeVisualizer
+	url = https://github.com/oxunPy/OscilloscopeVisualizer.git
+[submodule "SynelTestTask"]
+	path = SynelTestTask
+	url = https://github.com/oxunPy/SynelTestTask.git
+[submodule "hikvision-emp-card-face-telegram-bot"]
+	path = hikvision-emp-card-face-telegram-bot
+	url = https://github.com/oxunPy/hikvision-emp-card-face-telegram-bot.git
+[submodule "luditofinancetestquestion"]
+	path = luditofinancetestquestion
+	url = https://gitlab.com/oxunsaidov/luditofinancetestquestion.git
